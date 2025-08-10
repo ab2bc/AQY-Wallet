@@ -1,5 +1,5 @@
 <a href="https://suiet.app"><p align="center">
-<img width="480" src="https://apollo1.io/wp-content/uploads/sites/56/2025/08/cropped-Apollo-Coin2-scaled-1.png"/>
+<img src="https://apollo1.io/wp-content/uploads/sites/56/2025/08/cropped-Apollo-Coin2-scaled-1.png" alt="Logo" width="100" height="100">
 </a>
 
 # Apollo-GBC, the wallet designed for everyone
