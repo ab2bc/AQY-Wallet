@@ -1,8 +1,8 @@
 <a href="https://suiet.app"><p align="center">
-<img width="480" src="./assets/LogoWithSlogen.png?raw=trueg"/>
+<img width="480" src="https://apollo1.io/wp-content/uploads/sites/56/2025/08/cropped-Apollo-Coin2-scaled-1.png"/>
 </a>
 
-# Suiet, the wallet designed for everyone
+# Apollo-GBC, the wallet designed for everyone
 
 > If you want to know how to **install/use** suiet, please visit our offical website [suiet.app](https://suiet.app) or [docs](https://suiet.app/docs)
 
